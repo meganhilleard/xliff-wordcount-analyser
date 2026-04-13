@@ -1,1 +1,15 @@
-
+<xliff version="1.2">
+  <file>
+    <body>
+      <trans-unit id="1">
+        <source>Hello world</source>
+      </trans-unit>
+      <trans-unit id="2">
+        <source>Hello world</source>
+      </trans-unit>
+      <trans-unit id="3">
+        <source>New segment</source>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>
